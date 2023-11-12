@@ -22,7 +22,7 @@
 		$score10 = 60;
 
 		// 変数の中身を出力する
-		echo "10人の点数：{$score1},{$score2},{$score3},{$score4},{$score5},{$score6},{$score7},{$score8},{$score8},{$score9},{$score10}";
+		echo "10人の点数：{$score1},{$score2},{$score3},{$score4},{$score5},{$score6},{$score7},{$score8},{$score9},{$score10}";
 		echo '<br>';
 		?>
 	<p>
